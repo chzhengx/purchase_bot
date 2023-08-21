@@ -1,0 +1,4 @@
+# 基本设置，如URLs、登录信息等
+pytesseract~=0.3.10
+Pillow~=10.0.0
+requests~=2.31.0

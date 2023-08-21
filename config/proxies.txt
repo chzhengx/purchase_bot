@@ -1,0 +1,3 @@
+# 代理列表
+http://proxy1:port
+http://proxy2:port
