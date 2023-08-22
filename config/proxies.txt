@@ -1,3 +1,5 @@
 # 代理列表
-http://proxy1:port
-http://proxy2:port
+http://proxy1:port1
+http://proxy2:port2
+https://proxy3:port3
+https://proxy4:port4
