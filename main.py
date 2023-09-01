@@ -1,10 +1,10 @@
 import logging
 
 from config import settings
-from core.login import login
-from core.stock import monitor_stock
 from core.cart import add_to_cart
 from core.checkout import checkout
+from core.login import login
+from core.stock import monitor_stock
 from utils.proxy_rotator import ProxyRotator, load_proxies_from_file
 from utils.user_agents import AdvancedUserAgentRotator
 
